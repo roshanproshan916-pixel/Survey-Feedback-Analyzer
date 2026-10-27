@@ -72,7 +72,7 @@ Displays feedback records and analytical summaries in structured tables using Pa
 ```text
 Survey-Feedback-Analyzer/
 │
-├── survey-feedback-analyzer.ipynb
+├── Module End Assignment.ipynb
 └── README.md
 ```
 
